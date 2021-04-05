@@ -1,6 +1,8 @@
 # Guía rápida CSS Flexbox
 CSS Diplay Flex
 
+[pablogarcia.dev/notes/css-flexbox](https://pablogarcia.dev/notes/css-flexbox)
+
 ## Flex Container
 
 * [**`display`**](https://developer.mozilla.org/en-US/docs/Web/CSS/display): `flex | inline-flex`
