@@ -19,7 +19,8 @@ CSS Diplay Flex
   Urls to: [`flex-grow`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow), [`flex-shrink`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink), and [`flex-basis`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis).
 * [**`align-self`**](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self): `auto | flex-start | flex-end | center | baseline | stretch`
 
-
+#### Justify-content
+![Justify-content](https://github.com/pablorgarcia/Guia-rapida-CSS-Flexbox_tutorial-ejemplo/blob/main/justify-content.jpg "Justify-content")
 
 
 ### Resources
