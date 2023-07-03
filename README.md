@@ -1,7 +1,5 @@
-# Guía rápida CSS Flexbox Tutorial ejemplo
+# Guía rápida CSS Flexbox
 CSS Diplay Flex
-
-[pablogarcia.dev/notes/css-flexbox](https://pablogarcia.dev/notes/?go=css-flexbox)
 
 ## Flex Container
 
